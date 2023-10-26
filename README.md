@@ -6,8 +6,8 @@
 - Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher
 - 📫 How to reach me
 <br />
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harmonygrancer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aysche17) 
+
+
 
 [instagram]: https://www.instagram.com/serap_kutay
 [linkedin]: https://www.linkedin.com/in/serap-erdemir/
