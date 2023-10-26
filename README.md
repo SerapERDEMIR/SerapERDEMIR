@@ -2,15 +2,21 @@
 
 - 👋 Hi, I’m @SerapERDEMIR,
 -## I'm a  Software Developer 🚀 and Teacher 👨‍🎓!
+- Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher.
 - I'm a developer who develops applications with HTML, CSS, ASP, PHP, C#, AndroidStudio.
+- I create designs with Photoshop and After Effects.
 - I am currently learning JAVASCRIPT and after that, I will be learning REACT NATIVE.
 - I am working on projects with ARDUINO.
-- I'm an IT Teacher, ICT Teacher, FrontEnd-Mobile-Backend Developer 
-- Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher
+- I'm an IT Teacher, ICT Teacher, FrontEnd-Mobile-Backend Developer
+- 📝I have been actively involved in the writing and implementation of several Erasmus+ projects and mobilities.
+- 👯I enjoy team collaboration, and I am cooperative.
+-I’m looking to collaborate with other Ract Native Developer 👩‍💻 and Mobile App Designers 🎨
+- 🥅 2024 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 
+- ⚡ Fun fact: I love to reading, walking and coding 🤖
 - 📫 How to reach me
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![facebook](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 
 [instagram]: https://www.instagram.com/serap_kutay
