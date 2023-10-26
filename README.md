@@ -16,7 +16,7 @@
 - 📫 How to reach me
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![facebook](https://img.shields.io/badge/facebook-#0866FF.svg?logo=facebook&logoColor=white)](https://www.facebook.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/) 
 
 [instagram]: https://www.instagram.com/serap_kutay
 [linkedin]: https://www.linkedin.com/in/serap-erdemir/
