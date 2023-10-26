@@ -1,18 +1,18 @@
 <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
 - ## 👋 Hi, I’m @SerapERDEMIR
--  I'm a  Software Developer 🚀 and Teacher 👨‍🎓!
+-  I'm a  Software Developer👩‍💻 and Teacher👩🏻‍🏫!
 - Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher.
 - I'm a developer who develops applications with HTML, CSS, ASP, PHP, C#, AndroidStudio.
-- I create designs with Photoshop and After Effects.
+- I create designs with Photoshop🎑 and After Effects🎞️
 - I am currently learning JAVASCRIPT and after that, I will be learning REACT NATIVE.
-- I am working on projects with ARDUINO.
+- I am working on projects with ARDUINO🤖.
 - I'm an IT Teacher, ICT Teacher, FrontEnd-Mobile-Backend Developer
 - 📝I have been actively involved in the writing and implementation of several Erasmus+ projects and mobilities.
 - 👯I enjoy team collaboration, and I am cooperative.
--I’m looking to collaborate with other Ract Native Developer 👩‍💻 and Mobile App Designers 🎨
+-I’m looking to collaborate with other Ract Native Developer 👩‍💻 and Mobile App Designers📱
 - 🥅 2024 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 
-- ⚡ Fun fact: I love to reading, walking and coding 🤖
+- ⚡ Fun fact: I love to reading📚, walking🚶🏻‍♀️and coding 🤖
 - 📫 How to reach me
 
 ## 🌐 Socials:
