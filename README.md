@@ -10,7 +10,7 @@
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) 
 <br />
-[![gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:serap.kutay.44@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:serap.kutay.44@gmail.com)
 
 [instagram]: https://www.instagram.com/serap_kutay
 [linkedin]: https://www.linkedin.com/in/serap-erdemir/
