@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="500" height="320" />
+<img align="right" alt="GIF" <iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> width="500" height="320" />
 
 
 - 👋 Hi, I’m @SerapERDEMIR, I'm a developer who develops applications with HTML, CSS, ASP,PHP .
