@@ -1,13 +1,16 @@
 <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
-- 👋 Hi, I’m @SerapERDEMIR, I'm a developer who develops applications with HTML, CSS, ASP,PHP .
-- I am currently learning JAVA and fter that, I will be learning REACT NATIVE.
+- 👋 Hi, I’m @SerapERDEMIR,
+-## I'm a  Software Developer 🚀 and Teacher 👨‍🎓!
+- I'm a developer who develops applications with HTML, CSS, ASP, PHP, C#, AndroidStudio.
+- I am currently learning JAVASCRIPT and after that, I will be learning REACT NATIVE.
+- I am working on projects with ARDUINO.
 - I'm an IT Teacher, ICT Teacher, FrontEnd-Mobile-Backend Developer 
 - Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher
 - 📫 How to reach me
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) [![facebook](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 
 [instagram]: https://www.instagram.com/serap_kutay
