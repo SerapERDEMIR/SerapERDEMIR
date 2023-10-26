@@ -5,8 +5,9 @@
 - I'm an IT Teacher, ICT Teacher, FrontEnd-Mobile-Backend Developer 
 - Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher
 - 📫 How to reach me
-<br />
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serap_kutay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serap-erdemir) 
 
 
 [instagram]: https://www.instagram.com/serap_kutay
