@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="[![giphy](https://github.com/SerapERDEMIR/SerapERDEMIR/assets/143954976/8ee29083-a5a2-4ddc-9926-7379387115b2)](https://github.com/SerapERDEMIR/SerapERDEMIR.git)" width="500" height="320" />
+<img align="right" alt="GIF" src="[![giphy](https://github.com/SerapERDEMIR/SerapERDEMIR/assets/143954976/8ee29083-a5a2-4ddc-9926-7379387115b2)]" width="500" height="320" />
 
 - 👋 Hi, I’m @SerapERDEMIR, I'm a developer who develops applications with HTML, CSS, ASP,PHP .
 - I am currently learning JAVA and fter that, I will be learning REACT NATIVE.
