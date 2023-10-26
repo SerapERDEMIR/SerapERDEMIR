@@ -1,7 +1,6 @@
 <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
-- 👋 Hi, I’m @SerapERDEMIR,
--## I'm a  Software Developer 🚀 and Teacher 👨‍🎓!
+- ## 👋 Hi, I’m @SerapERDEMIR, I'm a  Software Developer 🚀 and Teacher 👨‍🎓!
 - Ihave graduated from Gazi University Faculty of Technical Education Computer Systems Teacher.
 - I'm a developer who develops applications with HTML, CSS, ASP, PHP, C#, AndroidStudio.
 - I create designs with Photoshop and After Effects.
